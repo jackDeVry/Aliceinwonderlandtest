@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "9e5c19cf-27cb-436d-80a2-3c4a096f0d74": {
+      "label": "C1",
+      "is_offline": false,
+      "file_url": "https://ia601300.us.archive.org/23/items/alices_adventures_1003/alices_adventures_01_carroll.mp3"
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Chapter 1",
+  "created_at": "2024-09-16T19:00:48.510Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2024-09-16T19:00:48.510Z",
+  "updated_by": "jackDeVry"
+}
